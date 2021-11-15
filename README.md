@@ -19,11 +19,11 @@
 
 CRUD
 <ul>
-    <li>GET /api/users retornará todos os alunos e aceitará solicitações GET</li>  
-    <li>GET /api/users/{id} retornará um registro de aluno fazendo referência a seu id e aceitando solicitações GET.</li>
-    <li>POST /api/users criará um novo registro de alunos e aceitará solicitações POST.</li>
-    <li>PUT /api/users/{id} atualizará um registro existente de aluno fazendo referência a seu id e aceitando solicitações PUT</li>
-    <li>DELETE /api/users/{id} excluirá um registro de aluno fazendo referência a seu id e aceitando solicitações DELETE.</li>
+    <li>GET /api/users retornará todos os usuarios e aceitará solicitações GET</li>  
+    <li>GET /api/users/{id} retornará um registro de usuarios fazendo referência a seu id e aceitando solicitações GET.</li>
+    <li>POST /api/users criará um novo registro de usuarios e aceitará solicitações POST.</li>
+    <li>PUT /api/users/{id} atualizará um registro existente de usuarios fazendo referência a seu id e aceitando solicitações PUT</li>
+    <li>DELETE /api/users/{id} excluirá um registro de usuarios fazendo referência a seu id e aceitando solicitações DELETE.</li>
 </ul>
 
 ##Para simplificação do Projeto
